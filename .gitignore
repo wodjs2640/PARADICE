@@ -1,3 +1,4 @@
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,8 +6,15 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+
+# User settings
 [Uu]ser[Ss]ettings/
+
+# Unity cache
 [Pp]ackageCache/
+[Bb]urst.Generated/
+
+# Visual Studio / Rider / VSCode
 *.csproj
 *.sln
 *.user
@@ -15,3 +23,9 @@
 *.mdb
 *.opendb
 *.unitypackage
+.vscode/
+
+# Additional Unity auto files
+sysinfo.txt
+*.stacktrace
+*.ide
